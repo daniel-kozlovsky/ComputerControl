@@ -1,0 +1,9 @@
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\obj\Release\ComputerControl.Form1.resources
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\obj\Release\ComputerControl.Properties.Resources.resources
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\obj\Release\ComputerControl.csproj.GenerateResource.Cache
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\obj\Release\ComputerControl.csprojResolveAssemblyReference.cache
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\bin\Release\DanComp.exe.config
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\bin\Release\DanComp.exe
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\bin\Release\DanComp.pdb
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\obj\Release\DanComp.exe
+C:\Users\DK\Documents\Computer Science\ComputerControl\ComputerControl\obj\Release\DanComp.pdb
